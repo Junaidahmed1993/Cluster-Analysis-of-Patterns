@@ -10,5 +10,5 @@ Our research contributes to the growing body of knowledge surrounding DAOs, faci
 As the DAO landscape evolves, so too will our research. Future endeavors may include sentiment analysis, network analysis, and longitudinal studies to capture the evolving nature of DAO communities and their impact on decentralized governance models.
 
 # Contact:
-For inquiries or collaboration opportunities, please contact Junaid Ahmed at junaidblogger.1993@gmail.com.
+For inquiries or collaboration opportunities, please contact Junaid Ahmed at junaidblogger.1993@gmail.com, or Andrea Peña-Calvin at andpen03@ucm.es.
 
